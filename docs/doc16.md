@@ -173,3 +173,26 @@ title: DEZEMBRO
 - Files by Google now supports USB OTG storage exploring
 
 
+**DEZEMBRO 09**
+
+
+- Apple patent application describes AirPower privacy feature, support for different wireless charging standards
+- More Than Half the World’s Population is Using the Internet
+- Amazon is selling a Kindle Paperwhite and Audible bundle
+- 25 million Americans do not have access to broadband internet
+- Kakao begins pilot carpool service, sets official launch for Dec. 17
+- The Google Store is offering holiday deals on Home Hub, Nest products, and more
+
+
+**DEZEMBRO 10**
+
+
+- China bans most iPhone sales after granting Qualcomm an injunction against Apple
+- OnePlus 6T Edition With Rumoured 10GB RAM Leaked Ahead of Launch
+- Samsung Galaxy A8s with Infinity-O display, three cameras launched
+- Apple Pay likely launching in Germany as soon as tomorrow after recent ‘coming soon’ update
+- You can now ask Amazon Alexa to read your email messages and respond by voice
+- Google Maps Expanding ‘For You’ Recommendations Tab to iOS in Over 40 Countries Today
+- Honor View 20 will also feature a punch-hole all-screen design
+- Samsung starts testing Android Pie update for Galaxy A series phones
+- Microsoft’s new Edge browser will support Chrome extensions
